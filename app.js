@@ -33,7 +33,7 @@ function handleLoadingScreen() {
             // Trigger entrance animations
             triggerEntranceAnimations();
         }, 1000);
-    }, 3000); // You can adjust this timing
+    }, 2000); // You can adjust this timing
 }
 
 function triggerEntranceAnimations() {
